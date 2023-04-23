@@ -3,8 +3,8 @@ This is the Transformer Model code for the BT5153. This was built on Kaggle Note
 
 This repository contains the following:
 1. The final running transformer model for the sign language videos: "Transformer Model for ASL Videos.ipynb". This is best run in Kaggle Notebook withh GPU. 
-2. The final running CNN model for the sign language vidoes: "CNN Model.ipynb". It needs to take the pre-processed data from anotehr ipynb file "CNN Data Preprocessing.ipynb"
-3. Data Preprocessing for CNN: "CNN Data Preprocessing.ipynb"
+2. The final running CNN model for the sign language vidoes: "CNN Model.ipynb". It needs to take the pre-processed data from anotehr ipynb file "CNN Data Preprocessing.ipynb". Best run in Google Colab.
+3. Data Preprocessing for CNN: "CNN Data Preprocessing.ipynb". Best run in Google Colab.
 4. The failed Google Colab transformer model: "Failed Colab Run of Transformer Model.ipynb"
 5. Sampel Data files. The actual data size is 56G. Please refer to this Kaggle Competition for complete data: https://www.kaggle.com/competitions/asl-signs/data
 
